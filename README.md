@@ -1,12 +1,33 @@
-### Hi there 👋  I'm Chi
-#### Data Analysyst (Bioinformatician)
+<h1 align="left">Hi there, I'm Chi Nguyen 👋 </h1>
 
--🔭 I'm a graduated student with strong background in Heath Science and Data Analysis.
+###
 
--🌱 I'm been focusing on Bioinformatics and Decision Support in Healthcare domain.
+<p align="left">I'm a bioinformatician aka data analysyst, graduated from Tampere University</p>
 
--😄 I enjoy analysing clinical data to contribute to oncology research, as well as health science in general. I also enjoy working in laboratory, where I can acquire my own data for the analysis.
+###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinguyen19)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="left">About me</h2>
 
+###
+
+<p align="left">✨ Working hard on biological data analysis and decision support in healthcare <br>📚 I'm currently learning bioinformatics and machine learning<br>🎯 Goals: To be a pro in the field. Contribute to the heatlh science.<br>🎲 Fun fact: I would love to be a professional badminton player</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpp/cpp-original.svg" height="40" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+</div>
+
+###
 
