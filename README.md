@@ -33,3 +33,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/chinguyen19/chinguyen19/output/snake.svg" alt="Snake animation" />
+
+###
