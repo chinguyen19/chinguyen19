@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a bioinformatician aka data analysyst, graduated from Tampere University</p>
+<p align="left">I'm a bioinformatician aka data analyst, graduated from Tampere University</p>
 
 ###
 
