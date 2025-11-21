@@ -10,10 +10,11 @@
 
 ###
 
-<p align="left">✨ Turning complex biological and clinical data into actionable insights that drive real-world impact
-📚 Expanding my expertise in data science, bioinformatics, and machine learning
-📊 Experienced with large-scale datasets, analytical pipelines, and evidence-based decision support
-🎯 Goal: Become a top-tier data professional who translates data into smarter, faster, and more meaningful outcomes across industries
+<p align="left">
+✨ Turning complex biological and clinical data into actionable insights that drive real-world impact  
+📚 Expanding my expertise in data science, bioinformatics, and machine learning  
+📊 Experienced with large-scale datasets, analytical pipelines, and evidence-based decision support  
+🎯 Goal: Become a top-tier data professional who translates data into smarter, faster, and more meaningful outcomes across industries  
 🎲 Fun fact: My birthdate is the most popular birthdate in the world</p>
 
 ###
