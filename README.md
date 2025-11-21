@@ -11,8 +11,8 @@
 ###
 
 <p align="left">
-✨ Turning complex biological and clinical data into actionable insights that drive real-world impact <br> 
-📚 Expanding my expertise in data science, bioinformatics, and machine learning  <br>
+✨ Started out decoding biological and clinical data, and grew into someone who can untangle any complex dataset, from e-commerce to sales <br> 
+📚 Expanding my expertise in data science, and machine learning  <br>
 📊 Experienced with large-scale datasets, analytical pipelines, and evidence-based decision support<br>  
 🎯 Goal: Become a top-tier data professional who translates data into smarter, faster, and more meaningful outcomes across industries  <br>
 🎲 Fun fact: My birthdate is the most popular birthdate in the world</p>
